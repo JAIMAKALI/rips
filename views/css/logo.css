@@ -1,0 +1,46 @@
+#logo{
+    margin-top:  14px;
+    margin-left: 60px;
+    border-radius: 50%;
+}
+#eng{
+       color: white;
+    position: relative;
+    z-index: 1;
+    font-size: 17px;
+    text-align: left;
+    font-family: Cambria;
+    margin-top: 13px;margin-left: 20px;
+}
+
+#eng img{
+margin-left: 0px;
+margin-top: 13px;
+height: 28px;
+width: 250px;
+}
+#banabt{
+    color: white;
+    font-family: "Segoe UI",Verdana;
+    margin-top: 25px;
+    margin-left: 350px;
+}
+
+#logo_details
+{
+    position: absolute;
+border-radius: 10px;
+padding: 1px 15px;
+width: 370px;
+z-index: 10;
+display:none;
+background-color: #EEE;
+margin: 0px;
+right: 820px;
+font-size: 15px;
+}
+#logo_details a
+{
+    text-decoration: none;
+    color:#0070C0;
+}
